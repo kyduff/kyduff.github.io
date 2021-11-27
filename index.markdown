@@ -1,6 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+title: About
+layout: page
 ---
+
+My name is Kyle Duffy. I'm just trying to develop my worldview and do great things.

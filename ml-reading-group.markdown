@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ML Reading Group
-permalink: /ml-reading/
+permalink: /ml-reading-group/
 ---
 
 In October 2021 I started a reading group among my cohort in the MSc in Advanced Computer Science at Oxford University. We read papers that highlight important activity in the field of Machine Learning, going for breadth over depth. The point is to develop a spanning view of the field so that we might have good ideas on how to change it.

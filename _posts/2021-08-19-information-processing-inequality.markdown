@@ -3,6 +3,7 @@ layout: post
 title: "Information Processing Inequality"
 date: 2021-08-19 12:00:00 -0700
 categories: proofs
+published: false
 ---
 
 Being involved with data science, I think about the conceptual implications of the information processing inequality all the time. A particular subcase tells us that you can't "inject" information by performing some kind of transformation. Here are the details.
