@@ -28,6 +28,10 @@ In October 2021 I started a reading group among my cohort in the MSc in Advanced
 * [_Komeili, Shuster, and Weston 2021_: **Internet-Augmented Dialogue Generation**][dialogue-gen] presented by Kyle Duffy
 * [_Kerenidis, Landman, Prakash 2019_: **Quantum Algorithms for Deep Convolutional Neural Networks**][quantum-cnn] presented by Snehal Raj
 
+#### 21 January 2022
+* [_Lee-Thorp et. al. 2021_: **FNet: Mixing Tokens with Fourier Transforms**][fnets] presented by Kyle Duffy
+* [_Borgeaud et. al. 2021_: **Improving language models by retrieving from trillions of tokens**][retro] presented by Fernando Almansa
+
 
 
 [SmBoP]: https://arxiv.org/abs/2010.12412
@@ -40,5 +44,7 @@ In October 2021 I started a reading group among my cohort in the MSc in Advanced
 [NILE]: https://aclanthology.org/2020.acl-main.771/
 [dialogue-gen]: https://arxiv.org/abs/2107.07566
 [quantum-cnn]: https://arxiv.org/abs/1911.01117
+[fnets]: https://arxiv.org/abs/2105.03824
+[retro]: https://arxiv.org/abs/2112.04426
 
 [foerster]: https://www.jakobfoerster.com/
