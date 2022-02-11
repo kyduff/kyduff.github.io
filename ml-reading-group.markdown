@@ -32,6 +32,10 @@ In October 2021 I started a reading group among my cohort in the MSc in Advanced
 * [_Lee-Thorp et. al. 2021_: **FNet: Mixing Tokens with Fourier Transforms**][fnets] presented by Kyle Duffy
 * [_Borgeaud et. al. 2021_: **Improving language models by retrieving from trillions of tokens**][retro] presented by Fernando Almansa
 
+#### 11 February 2022
+* [_Chen et. al. 2020_: **A Simple Framework for Contrastive Learning of Visual Representations**][SimCLR] presented by Oliver Rausch
+* [_Veličković et. al. 2018_: **Graph Attention Networks**][GAT] presented by Kyle Duffy
+
 
 
 [SmBoP]: https://arxiv.org/abs/2010.12412
@@ -46,5 +50,7 @@ In October 2021 I started a reading group among my cohort in the MSc in Advanced
 [quantum-cnn]: https://arxiv.org/abs/1911.01117
 [fnets]: https://arxiv.org/abs/2105.03824
 [retro]: https://arxiv.org/abs/2112.04426
+[SimCLR]: https://arxiv.org/abs/2002.05709
+[GAT]: https://arxiv.org/abs/1710.10903
 
 [foerster]: https://www.jakobfoerster.com/
