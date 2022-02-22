@@ -36,6 +36,10 @@ In October 2021 I started a reading group among my cohort in the MSc in Advanced
 * [_Chen et. al. 2020_: **A Simple Framework for Contrastive Learning of Visual Representations**][SimCLR] presented by Oliver Rausch
 * [_Veličković et. al. 2018_: **Graph Attention Networks**][GAT] presented by Kyle Duffy
 
+#### 18 February 2022
+* [_Lester, Al-Rfou, and Constant 2021_: **The Power of Scale for Parameter-Efficient Prompt Tuning**][prompt-tuning] presented by Hunar Batra
+* [_Li et. al. 2022_: **Competition-Level Code Generation with AlphaCode**][AlphaCode] presented by Fernando Almansa
+
 
 
 [SmBoP]: https://arxiv.org/abs/2010.12412
@@ -52,5 +56,7 @@ In October 2021 I started a reading group among my cohort in the MSc in Advanced
 [retro]: https://arxiv.org/abs/2112.04426
 [SimCLR]: https://arxiv.org/abs/2002.05709
 [GAT]: https://arxiv.org/abs/1710.10903
+[prompt-tuning]: https://aclanthology.org/2021.emnlp-main.243/
+[AlphaCode]: https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf
 
 [foerster]: https://www.jakobfoerster.com/
