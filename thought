@@ -1,0 +1,20 @@
+[[ $# -ne 2 ]] && echo "usage: $(basename $0) <filename> <title>" && exit 1
+
+day=$(date +"%d")
+month=$(date +"%m")
+year=$(date +"%Y")
+
+fname="$1"
+title="$2"
+
+outfile="_posts/$year-$month-$day-$fname.markdown"
+
+cat > $outfile <<- EOF
+---
+layout: post
+title: "$title"
+date: "$year-$month-$day"
+categories: thoughts
+published: false
+---
+EOF
