@@ -40,6 +40,9 @@ In October 2021 I started a reading group among my cohort in the MSc in Advanced
 * [_Lester, Al-Rfou, and Constant 2021_: **The Power of Scale for Parameter-Efficient Prompt Tuning**][prompt-tuning] presented by Hunar Batra
 * [_Li et. al. 2022_: **Competition-Level Code Generation with AlphaCode**][AlphaCode] presented by Fernando Almansa
 
+#### 25 February 2022
+* [_Rezende and Mohamed 2016_: **Variational Inference with Normalizing Flows**][norm-flows] presented by Marcel Rød
+
 
 
 [SmBoP]: https://arxiv.org/abs/2010.12412
@@ -58,5 +61,6 @@ In October 2021 I started a reading group among my cohort in the MSc in Advanced
 [GAT]: https://arxiv.org/abs/1710.10903
 [prompt-tuning]: https://aclanthology.org/2021.emnlp-main.243/
 [AlphaCode]: https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf
+[norm-flows]: https://arxiv.org/abs/1505.05770
 
 [foerster]: https://www.jakobfoerster.com/
