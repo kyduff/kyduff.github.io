@@ -43,6 +43,10 @@ In October 2021 I started a reading group among my cohort in the MSc in Advanced
 #### 25 February 2022
 * [_Rezende and Mohamed 2016_: **Variational Inference with Normalizing Flows**][norm-flows] presented by Marcel Rød
 
+#### 11 March 2022
+* [_Nye et. al. 2021_: **Show Your Work: Scratchpads for Intermediate Computation with Language Models**][scratchpads] presented by Hunar Batra
+* [_Drexler 2019_: **Reframing Superintelligence: Comprehensive AI Services as General Intelligence**][reframing-superintelligence] presented by Oliver Rausch
+
 
 
 [SmBoP]: https://arxiv.org/abs/2010.12412
@@ -62,5 +66,7 @@ In October 2021 I started a reading group among my cohort in the MSc in Advanced
 [prompt-tuning]: https://aclanthology.org/2021.emnlp-main.243/
 [AlphaCode]: https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf
 [norm-flows]: https://arxiv.org/abs/1505.05770
+[scratchpads]: https://arxiv.org/abs/2112.00114
+[reframing-superintelligence]: https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf
 
 [foerster]: https://www.jakobfoerster.com/
