@@ -15,6 +15,6 @@ layout: post
 title: "$title"
 date: "$year-$month-$day"
 categories: thoughts
-published: false
+published: true
 ---
 EOF
