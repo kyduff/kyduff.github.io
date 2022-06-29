@@ -6,15 +6,17 @@ permalink: /links/
 
 Some articles and other media that I find interesting.
 
+##### Misc
 * [The Future of Mathematics?][buzz_future] Kevin Buzzard talks about formalizing all of mathematics.
 * [As We May Think][as_we_may_think]: the internet has gotten us closer to Vannevar Bush's vision, but there's still more to go.
 * [The Use of Knowledge in Society][use_of_knowledge]: macro planning in worlds of fractured knowledge.
-* In [Computing Machinery and Intelligence][can_machines_think], Turing lays out a framework for conceiving of thinking machines that I still find relevant in most philosophical disucssions of AGI today.
+* [Computing Machinery and Intelligence][can_machines_think]: Turing lays out a framework for conceiving of thinking machines that I still find relevant in most philosophical disucssions of AGI today.
 * [Charlie Munger's commencement address at USC][munger-commencement-usc].
-* _Practical Machine Learning Research_
-  * In [The Bitter Lesson][the_bitter_lesson], Richard Sutton describes a difficult pill every aspiring deep-learning-programmer should swallow before trying to do something great.
-  * Goodfellow's [guidelines] to practical ML research, paired with a fun story about how he built the model that identifies addresses in Street View.
-  * Lecture slides demonstrating Andrew Ng's advice for [applying machine learning].
+
+##### Practical Machine Learning Research
+  * [The Bitter Lesson][the_bitter_lesson]: Richard Sutton describes a difficult pill every aspiring deep-learning-programmer should swallow before trying to do something great.
+  * [Goodfellow's guidelines][guidelines] to practical ML research, paired with a fun story about how he built the model that identifies addresses in Street View.
+  * [Applying machine learning]: lecture slides demonstrating Andrew Ng's advice.
 
 
 [the_bitter_lesson]: http://incompleteideas.net/IncIdeas/BitterLesson.html
