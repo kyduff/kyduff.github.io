@@ -12,6 +12,7 @@ Some articles and other media that I find interesting.
 * [The Use of Knowledge in Society][use_of_knowledge]: macro planning in worlds of fractured knowledge.
 * [Computing Machinery and Intelligence][can_machines_think]: Turing lays out a framework for conceiving of thinking machines that I still find relevant in most philosophical disucssions of AGI today.
 * [Charlie Munger's commencement address at USC][munger-commencement-usc].
+* [Grug brain developer advice][grug]
 
 ##### Practical Machine Learning Research
   * [The Bitter Lesson][the_bitter_lesson]: Richard Sutton describes a difficult pill every aspiring deep-learning-programmer should swallow before trying to do something great.
@@ -27,3 +28,5 @@ Some articles and other media that I find interesting.
 [munger-commencement-usc]: https://youtu.be/5U0TE4oqj24
 [guidelines]: https://www.deeplearningbook.org/contents/guidelines.html
 [ng-advice]: https://cs229.stanford.edu/materials/ML-advice.pdf
+[grug]: https://grugbrain.dev/
+
