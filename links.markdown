@@ -14,6 +14,7 @@ Some articles and other media that I find interesting.
 * [Charlie Munger's commencement address at USC][munger-commencement-usc].
 * [Grug brain developer advice][grug]
 * [Sayings of Poor Richard][poor_richard]
+* [On the Folly of Rewarding A, While Hoping for B][folly]: thoughts and case studies on the ill-effects of dissonance among rewards and organizational intentions.
 
 ##### Practical Machine Learning Research
   * [The Bitter Lesson][the_bitter_lesson]: Richard Sutton describes a difficult pill every aspiring deep-learning-programmer should swallow before trying to do something great.
@@ -31,3 +32,4 @@ Some articles and other media that I find interesting.
 [ng-advice]: https://cs229.stanford.edu/materials/ML-advice.pdf
 [grug]: https://grugbrain.dev/
 [poor_richard]: https://en.wikiquote.org/wiki/Poor_Richard%27s_Almanack
+[folly]: https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Kerr_Folly_of_rewarding_A_while_hoping_for_B.pdf
