@@ -3,7 +3,7 @@ layout: post
 title: "Two Hawks"
 date: "2022-03-10"
 categories: thoughts fable
-published: true
+published: false
 ---
 A HAWK stands on a branch. His joints tremble with hunger. A splash of black in his right peripheral. A crow. He jumps at the crow. It dashes away. A scuffling. A squirrel claws at the bark. The hawk snaps his gaze. With haste he jumps. The squirrel clenches tightly to the trunk of the tree. In a millisecond the hawk is on her. Just as quick she sinks her teeth in. Sharp and cold like a bear trap they snap and the hawk loses a toe. He drifts away into the sharp autumn morning. He escaped with his life but kept his hunger.
 

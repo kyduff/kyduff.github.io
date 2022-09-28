@@ -3,7 +3,7 @@ layout: post
 title: "Build the Cathedral"
 date: "2022-05-18"
 categories: thoughts
-published: true
+published: false
 ---
 
 1. If I build a basic experimental environment, it will help me experiment with ideas more rapidly.
