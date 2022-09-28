@@ -13,7 +13,7 @@ The point of this post is to share some of my lasting impressions. Here’s a li
 * Energetic positivity is a frame of mind that can be brought about deliberately.
 * Patient communication leads to smooth confidence which leads to trust.
 * People can detect a presence of genuine attentiveness. Conversely, they can tell when you’re not paying attention.
-* Every person is enjoyable and interesting once they break out their shell—it’s your job to get them to show that.
+* Every person is enjoyable and interesting once they break out of their shell—it’s your job to get them to show that.
 * People feel much more comfortable sharing things about themselves if you share things about yourself.
 
 #### Energetic Positivity
