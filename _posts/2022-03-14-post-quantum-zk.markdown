@@ -18,17 +18,17 @@ Positing the existence of stable quantum computers with many (many) qubits, what
 ## The Problem With Proofs
 
 Most Ethereum scaling solutions rely on zero knowledge proof (zk-proof) systems to securely compress a computation into a public commitment that is easier to validate than it is to perform the underlying compute task. There are three systems that dominate this task:
-* SNARKS
-* STARKS
+* SNARKs
+* STARKs
 * Bulletproofs
 
-What matters in the context of this post is that SNARKS and Bulletproofs are susceptible to quantum threats whereas STARKS are (so far) believed immune. Despite their vulnerability to quantum attacks, SNARKS are used the most in practice by a wide margin. Why? The short answer is space efficiency (and the long answer would address tooling and history): regardless of the size of computation, SNARKS take up 288 bytes whereas STARKS take up ~45,000 bytes and scale with computation size like $O(p(\log n))$ for a polynomial $p$.
+What matters in the context of this post is that SNARKs and Bulletproofs are susceptible to quantum threats whereas STARKs are (so far) believed immune. Despite their vulnerability to quantum attacks, SNARKs are used the most in practice by a wide margin. Why? The short answer is space efficiency (and the long answer would address tooling and history): regardless of the size of computation, SNARKs take up 288 bytes whereas STARKS take up ~45,000 bytes and scale with computation size like $O(p(\log n))$ for a polynomial $p$.
 
-In the current environment of high Ethereum gas fees, the extra 2 orders of magnitude are very costly. A SNARK can fit into a transaction absorbing ~600k gas, whereas STARKS soak up nearly 2.5 million gas. At current gas prices (roughly $37 \times 10^{-9}$ ETH / gas), that’s a difference of roughly USD 1700 for each zk-proof. As a solution to a problem that doesn't exist yet, it's a tough sell.
+In the current environment of high Ethereum gas fees, the extra 2 orders of magnitude are very costly. A SNARK can fit into a transaction absorbing ~600k gas, whereas STARKs soak up nearly 2.5 million gas. At current gas prices (roughly $37 \times 10^{-9}$ ETH / gas), that’s a difference of roughly USD 1700 for each zk-proof. As a solution to a problem that doesn't exist yet, it's a tough sell.
 
-So what can we do? The quantum threat is inevitable and requires attention sooner than later. Post-quantuming crypto systems is going to be harder than it seems, so we should get started as soon as possible. For STARKS to be adopted, either their size needs to be reduced substantially or they need to be deployed on a chain with lower gas fees. Doing the former seems harder to me.
+So what can we do? The quantum threat is inevitable and requires attention sooner than later. Post-quantuming crypto systems is going to be harder than it seems, so we should get started as soon as possible. For STARKs to be adopted, either their size needs to be reduced substantially or they need to be deployed on a chain with lower gas fees. Doing the former seems harder to me.
 
-The tech behind STARKS is new and exciting. It would be great to see more people working on compressing the STARK (or another post-quantum zk system) footprint so we can make steps towards a future version of the internet that will survive the birth of quantum computing at scale.
+The tech behind STARKs is new and exciting. It would be great to see more people working on compressing the STARK (or another post-quantum zk system) footprint so we can make steps towards a future version of the internet that will survive the birth of quantum computing at scale.
 
 ---
 
