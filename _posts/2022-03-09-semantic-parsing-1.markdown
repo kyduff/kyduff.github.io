@@ -51,7 +51,7 @@ There are at least three huge benefits to this approach:
 2. We can get a sense for deficiencies in the distribution of training examples
 3. We can bring humans into the loop more effectively as models [actively learn](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)) in the field.
 
-Most semantic parsers these days predict formal language tags through a probability distribution over a vocabulary of token. For now we can use statistics on that probability distribution as a proxy for confidence, but I'm really excited to see what we can do with more sophisticated uncertainty measures as the logistics of Bayesian methods improve.
+Most semantic parsers these days predict formal language tags through a probability distribution over a vocabulary of tokens. For now we can use statistics on that probability distribution as a proxy for confidence, but I'm really excited to see what we can do with more sophisticated uncertainty measures as the logistics of Bayesian methods improve.
 
 ## Summing up
 
