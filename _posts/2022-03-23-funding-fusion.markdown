@@ -9,7 +9,7 @@ Alex Tabarrok recently [posted on Marginal Revolution][alex] about properties ne
 
 His thesis boils down to 4 points:
 
-> what do we need for another OWS? 1) Known science—scaling not discovering, 2) Lifting of regulations 3) Big externalities, 4) Pre-existing motivation.
+> what do we need for another [Operation Warp Speed]? 1) Known science—scaling not discovering, 2) Lifting of regulations 3) Big externalities, 4) Pre-existing motivation.
 
 This got me thinking about potential gains we can accelerate with federal funds. Solving the climate problem is always on my mind, and we're not going to do that without a substantial refactor of our electricity generation system.
 
