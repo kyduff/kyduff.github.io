@@ -10,6 +10,7 @@ Some articles and other media that I find interesting.
 * [The Future of Mathematics?][buzz_future] Kevin Buzzard talks about formalizing all of mathematics.
 * [As We May Think][as_we_may_think]: the internet has gotten us closer to Vannevar Bush's vision, but there's still more to go.
 * [The Use of Knowledge in Society][use_of_knowledge]: macro planning in worlds of fractured knowledge.
+* [Investing in the Unknown and Unknowable][uU]: principles, maxims, and anecdotes about investing while ignorant (by Richard Zeckhauser).
 * [Computing Machinery and Intelligence][can_machines_think]: Turing lays out a framework for conceiving of thinking machines that I still find relevant in most philosophical disucssions of AGI today.
 * [Charlie Munger's commencement address at USC][munger-commencement-usc].
 * [Grug brain developer advice][grug]
@@ -33,3 +34,4 @@ Some articles and other media that I find interesting.
 [grug]: https://grugbrain.dev/
 [poor_richard]: https://en.wikiquote.org/wiki/Poor_Richard%27s_Almanack
 [folly]: https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Kerr_Folly_of_rewarding_A_while_hoping_for_B.pdf
+[uU]: https://scholar.harvard.edu/files/rzeckhauser/files/unknown_unknowable.pdf
