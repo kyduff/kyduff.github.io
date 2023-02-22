@@ -12,8 +12,6 @@ I think the best way to do that is to make computer interfaces more natural with
 
 I have a Master's degree in Computer Science from [Oxford][oxcs] and a Bachelor's degree in Mathematics from [Notre Dame][ndmath].
 
-Besides [NLP][nlp], I like to study [psychological biases][influence], [the history of businesses][teledyne], and [stories of remarkable people][zemurray].
-
 
 [influence]: https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X
 [teledyne]: https://www.amazon.com/Distant-Force-Teledyne-Corporation-2007-01-01/dp/B01N07LFZP
