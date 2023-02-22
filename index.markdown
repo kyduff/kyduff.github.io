@@ -10,9 +10,9 @@ I build products that make it easier to get more from computers.
 
 I think the best way to do that is to make computer interfaces more natural with the help of machine learning.
 
-I have a Master's degree in Computer Science from [Oxford][oxcs], and Bachelor's degree in Mathematics from [Notre Dame][ndmath].
+I have a Master's degree in Computer Science from [Oxford][oxcs] and a Bachelor's degree in Mathematics from [Notre Dame][ndmath].
 
-Outside of [NLP][nlp], I like to study [psychological biases][influence], [the history of businesses][teledyne], and [stories of remarkable people][zemurray].
+Besides [NLP][nlp], I like to study [psychological biases][influence], [the history of businesses][teledyne], and [stories of remarkable people][zemurray].
 
 
 [influence]: https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X
