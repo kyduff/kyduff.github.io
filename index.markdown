@@ -4,7 +4,15 @@ layout: page
 exclude: true
 ---
 
-<img style="float: left; padding: 0px 100px 0px 0px;" src="/assets/headshot.jpg" width="200">
+<style>
+  :root { --headshot-float: none; }
+
+  @media (min-width: 640px) {
+    :root { --headshot-float: left; }
+  }
+</style>
+
+<img style="float: var(--headshot-float); padding: 0px 100px 25px 0px;" src="/assets/headshot.jpg" width="200">
 
 I build products that make it easier to get more from computers.
 
