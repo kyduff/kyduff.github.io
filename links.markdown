@@ -17,6 +17,7 @@ Some articles and other media that I find interesting.
 * [Sayings of Poor Richard][poor_richard]
 * [On the Folly of Rewarding A, While Hoping for B][folly]: thoughts and case studies on the ill-effects of dissonance among rewards and organizational intentions.
 * [Claude Shannon demonstrates Theseus][theseus] (the maze solving mouse).
+* [A speech about creative thinking by Claude Shannon][shannon_creative_thinking]
 
 ##### Practical Machine Learning Research
   * [The Bitter Lesson][the_bitter_lesson]: Richard Sutton describes a difficult pill every aspiring deep-learning-programmer should swallow before trying to do something great.
@@ -37,3 +38,4 @@ Some articles and other media that I find interesting.
 [folly]: https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Kerr_Folly_of_rewarding_A_while_hoping_for_B.pdf
 [uU]: https://scholar.harvard.edu/files/rzeckhauser/files/unknown_unknowable.pdf
 [theseus]: https://youtu.be/_9_AEVQ_p74
+[shannon_creative_thinking]: http://www1.ece.neu.edu/~naderi/Claude%20Shannon.html
