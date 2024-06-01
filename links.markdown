@@ -19,6 +19,7 @@ Some articles and other media that I find interesting.
 * [Claude Shannon demonstrates Theseus][theseus] (the maze solving mouse).
 * [A speech about creative thinking by Claude Shannon][shannon_creative_thinking]
 * [Poor Charlie's Almanack][poor_charlies_almanack]
+* [When is correlation transitive?][transitive_correlation]: Terry Tao describes some of the peculiarities of correlation.
 
 ##### Practical Machine Learning Research
   * [The Bitter Lesson][the_bitter_lesson]: Richard Sutton describes a difficult pill every aspiring deep-learning-programmer should swallow before trying to do something great.
@@ -43,3 +44,4 @@ Some articles and other media that I find interesting.
 [shannon_creative_thinking]: http://www1.ece.neu.edu/~naderi/Claude%20Shannon.html
 [poor_charlies_almanack]: https://www.stripe.press/poor-charlies-almanack
 [ng_papers]: https://www.youtube.com/watch?v=733m6qBH-jI
+[transitive_correlation]: https://terrytao.wordpress.com/2014/06/05/when-is-correlation-transitive/
