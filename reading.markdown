@@ -58,3 +58,4 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * The Eye: A Very Short Introduction
 * The New Atlantis
 * **Oglivy On Advertising**
+* **The Man Who Solved The Market**
