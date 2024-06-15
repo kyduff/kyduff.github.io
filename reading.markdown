@@ -8,6 +8,7 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 
 # Up to 2023
 
+* **The Elements of Style** (Strunk & White)
 * Dream Machine
 * The Importance of Being Earnest
 * Surreal Numbers
