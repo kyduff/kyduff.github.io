@@ -63,3 +63,4 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * **Almanack of Naval Ravikant**
 * Play Nice But Win
 * What I Talk About When I Talk About Running
+* The New Economics
