@@ -18,6 +18,8 @@ I build products that make it easier to get more from computers.
 
 I think the best way to do that is to make computer interfaces more natural with the help of machine learning.
 
+Right now, I'm doing that by building language models at [Cohere][cohere].
+
 I have a Master's degree in Computer Science from [Oxford][oxcs] and a Bachelor's degree in Mathematics from [Notre Dame][ndmath].
 
 
@@ -28,3 +30,4 @@ I have a Master's degree in Computer Science from [Oxford][oxcs] and a Bachelor'
 [oxcs]: https://www.cs.ox.ac.uk/
 [ndmath]: https://math.nd.edu/
 [nlp]: https://en.wikipedia.org/wiki/Natural_language_processing
+[cohere]: https://cohere.com/
