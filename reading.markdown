@@ -66,3 +66,4 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * The New Economics
 * Napoleon (by Paul Johnson)
 * The Republic of Tea
+* Hero of the Empire: The Boer War, a Daring Escape, and the Making of Winston Churchill
