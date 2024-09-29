@@ -74,3 +74,4 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * The Republic of Tea
 * Hero of the Empire: The Boer War, a Daring Escape, and the Making of Winston Churchill
 * Value Investing: From Graham to Buffett and Beyond
+* **38 Letters from J.D. Rockefeller to his son**
