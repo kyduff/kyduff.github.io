@@ -4,14 +4,15 @@ title: Reading List
 permalink: /reading/
 ---
 
-Below is an incomplete list of the books I've read. From 2024, the books are in order of completion. Repeat titles indicate re-reads. I especially enjoyed the books with **bold** titles.
+Below is an incomplete list of the books I've read. From 2024, the books are in order of completion. Repeated titles indicate re-reads. I especially enjoyed the books with **bold** titles.
 
 # Up to 2023
 
 * **The Elements of Style** (Strunk & White)
 * **The Art of War**
 * **The Way of Zen**
-* Dream Machine
+* **The Art of Doing Science and Engineering**
+* The Dream Machine
 * The Importance of Being Earnest
 * Surreal Numbers
 * **Shoe Dog**
