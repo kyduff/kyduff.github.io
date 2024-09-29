@@ -9,6 +9,8 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 # Up to 2023
 
 * **The Elements of Style** (Strunk & White)
+* **The Art of War**
+* **The Way of Zen**
 * Dream Machine
 * The Importance of Being Earnest
 * Surreal Numbers
@@ -17,6 +19,8 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * **Sam Walton: Made in America**
 * **Creativity Inc**
 * Napoleon: A Very Short Introduction
+* **The Autobiography of Benjamin Franklin**
+* On War
 * The Innovators
 * The Terminal List
 * Good to Great
@@ -32,6 +36,7 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * The Code Breaker
 * **Let My People Go Surfing**
 * Walden
+* The Remains of the Day
 * Napoleon: A Concise Biography
 * The Iliad
 * **The Wright Brothers**
@@ -67,3 +72,4 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * Napoleon (by Paul Johnson)
 * The Republic of Tea
 * Hero of the Empire: The Boer War, a Daring Escape, and the Making of Winston Churchill
+* Value Investing: From Graham to Buffett and Beyond
