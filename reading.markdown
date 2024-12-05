@@ -80,3 +80,4 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * Creative Selection
 * The Road to Serfdom
 * **Life of Perikles**
+* **Creativity Inc**
