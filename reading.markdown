@@ -82,3 +82,7 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * **Life of Perikles**
 * **Creativity Inc**
 * Jack: Straight from the Gut
+
+# 2025
+
+* **The Monk of Mokha**
