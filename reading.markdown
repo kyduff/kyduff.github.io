@@ -88,3 +88,4 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * **The Monk of Mokha**
 * **The Design of Everyday Things**
 * Life of Crassus
+* **What It Takes: Lessons in the Pursuit of Excellence**
