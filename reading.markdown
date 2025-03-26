@@ -92,3 +92,4 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * **Autobiography of Andrew Carnegie**
 * Gospel of Wealth
 * **On Liberty**
+* **Lee Kuan Yew: The Grand Master's Insights on China, United States, and the World**
