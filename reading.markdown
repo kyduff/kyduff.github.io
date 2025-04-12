@@ -95,3 +95,4 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * **Lee Kuan Yew: The Grand Master's Insights on China, United States, and the World**
 * Life of Demosthenes
 * The Nvidia Way
+* Life of Cicero
