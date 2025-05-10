@@ -96,3 +96,4 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * Life of Demosthenes
 * The Nvidia Way
 * Life of Cicero
+* Chip War
