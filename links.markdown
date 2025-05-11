@@ -20,7 +20,7 @@ Some articles and other media that I find interesting.
 * [A speech about creative thinking by Claude Shannon][shannon_creative_thinking]
 * [Poor Charlie's Almanack][poor_charlies_almanack]
 * [When is correlation transitive?][transitive_correlation]: Terry Tao describes some of the peculiarities of correlation.
-* [Do the real thing.][real_thing]
+* [Do the real thing][real_thing]
 
 ##### Practical Machine Learning Research
   * [The Bitter Lesson][the_bitter_lesson]: Richard Sutton describes a difficult pill every aspiring deep-learning-programmer should swallow before trying to do something great.
