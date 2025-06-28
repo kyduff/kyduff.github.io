@@ -21,6 +21,7 @@ Some articles and other media that I find interesting.
 * [Poor Charlie's Almanack][poor_charlies_almanack]
 * [When is correlation transitive?][transitive_correlation]: Terry Tao describes some of the peculiarities of correlation.
 * [Do the real thing][real_thing]
+* [Strong Inference][strong_inference] is a practical method of scientific discovery based on prioritizing _falsification_ of _multiple_ hypotheses. Contrast that with the schoolhouse method of reporting _confirming_ evidence of a _single_ hypothesis.
 
 ##### Practical Machine Learning Research
   * [The Bitter Lesson][the_bitter_lesson]: Richard Sutton describes a difficult pill every aspiring deep-learning-programmer should swallow before trying to do something great.
@@ -47,3 +48,4 @@ Some articles and other media that I find interesting.
 [ng_papers]: https://www.youtube.com/watch?v=733m6qBH-jI
 [transitive_correlation]: https://terrytao.wordpress.com/2014/06/05/when-is-correlation-transitive/
 [real_thing]: https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/
+[strong_inference]: https://dunnlab.ucsf.edu/sites/g/files/tkssra5801/f/wysiwyg/Platt%201964.pdf
