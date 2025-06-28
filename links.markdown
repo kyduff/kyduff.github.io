@@ -7,6 +7,7 @@ permalink: /links/
 Some articles and other media that I find interesting.
 
 ##### Misc
+* [Digest][digest] is a cute little page I built to quickly check the top posts from [hacker news][hn].
 * [The Future of Mathematics?][buzz_future] Kevin Buzzard talks about formalizing all of mathematics.
 * [As We May Think][as_we_may_think]: the internet has gotten us closer to Vannevar Bush's vision, but there's still more to go.
 * [The Use of Knowledge in Society][use_of_knowledge]: macro planning in worlds of fractured knowledge.
@@ -49,3 +50,5 @@ Some articles and other media that I find interesting.
 [transitive_correlation]: https://terrytao.wordpress.com/2014/06/05/when-is-correlation-transitive/
 [real_thing]: https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/
 [strong_inference]: https://dunnlab.ucsf.edu/sites/g/files/tkssra5801/f/wysiwyg/Platt%201964.pdf
+[digest]: https://digest.kyleduffy.online/
+[hn]: https://news.ycombinator.com/
