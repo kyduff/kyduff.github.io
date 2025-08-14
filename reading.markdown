@@ -102,3 +102,4 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * Grinding it Out
 * Hard Truths To Keep Singapore Going
 * Superpower Interrupted
+* Running with Purpose
