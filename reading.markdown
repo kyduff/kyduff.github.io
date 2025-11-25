@@ -112,3 +112,4 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * Oil: A Beginner's Guide
 * Finite and Infinite Games
 * Man's Search for Meaning
+* **The Lessons of History**
