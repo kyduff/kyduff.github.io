@@ -113,3 +113,6 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * Finite and Infinite Games
 * Man's Search for Meaning
 * **The Lessons of History**
+* Life of Pyrrhus
+* Life of Romulus
+* **Life of Fabius Maximus**
