@@ -48,6 +48,7 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * **The HP Way**
 * **Zen and the Art of Motorcycle Maintenance**
 * Socrates: A Man For Our Times
+* **When Breath Becomes Air**
 
 # 2024
 
