@@ -49,6 +49,6 @@ Some articles and other media that I find interesting.
 [ng_papers]: https://www.youtube.com/watch?v=733m6qBH-jI
 [transitive_correlation]: https://terrytao.wordpress.com/2014/06/05/when-is-correlation-transitive/
 [real_thing]: https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/
-[strong_inference]: https://dunnlab.ucsf.edu/sites/g/files/tkssra5801/f/wysiwyg/Platt%201964.pdf
+[strong_inference]: https://www.whoi.edu/cms/files/platt64sci_72743.pdf
 [digest]: https://digest.kyleduffy.online/
 [hn]: https://news.ycombinator.com/
