@@ -6,7 +6,7 @@ categories: thoughts
 published: true
 ---
 
-I propose a Scientific Method which has four phases:
+The Scientific Method I use has four phases:
 
 1. Observe the system
 2. Formulate multiple, falsifiable hypotheses
