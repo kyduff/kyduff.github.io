@@ -9,7 +9,7 @@ published: true
 The Scientific Method I use has four phases:
 
 1. Observe the system
-2. Formulate multiple, falsifiable hypotheses
+2. Formulate multiple falsifiable hypotheses
 3. Perform experiments to rule out some or all the hypotheses
 4. Repeat
 
