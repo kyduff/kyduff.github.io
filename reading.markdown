@@ -121,3 +121,4 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * Autobiography of Benjamin Franklin
 * Life of Marcellus
 * Story of Philosophy: Francis Bacon
+* Story of Philosophy: Spinoza
