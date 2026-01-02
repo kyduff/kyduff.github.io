@@ -122,3 +122,7 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * Life of Marcellus
 * Story of Philosophy: Francis Bacon
 * Story of Philosophy: Spinoza
+
+# 2026
+
+* The True Believer
