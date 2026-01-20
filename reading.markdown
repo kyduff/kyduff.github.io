@@ -127,3 +127,4 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 
 * The True Believer
 * **My Life in Advertising**
+* Genghis Khan (by Harold Lamb)
