@@ -130,3 +130,4 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * Genghis Khan (by Harold Lamb)
 * The Odyssey
 * Spotify: A Product Story (_technically a podcast, but reads like a pamphlet_)
+* The Taming of the Shrew
