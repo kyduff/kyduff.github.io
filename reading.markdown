@@ -132,3 +132,4 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * Spotify: A Product Story (_technically a podcast, but reads like a pamphlet_)
 * The Taming of the Shrew
 * **Born of This Land**
+* **You Are Not a Gadget**
