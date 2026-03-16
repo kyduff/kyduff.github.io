@@ -133,3 +133,4 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * The Taming of the Shrew
 * **Born of This Land**
 * **You Are Not a Gadget**
+* **The Structure of Scientific Revolutions**
