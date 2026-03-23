@@ -1,6 +1,6 @@
 ---
 layout: postpage
-title: "Thoughts of The Day"
+title: "Short Essays"
 permalink: /thoughts/
 categories: thoughts
 show_excerpts: false
