@@ -1,6 +1,6 @@
 ---
 layout: postpage
-title: "Short Essays"
+title: "Writing"
 permalink: /thoughts/
 categories: thoughts
 show_excerpts: false
