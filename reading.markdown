@@ -135,3 +135,4 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * **You Are Not a Gadget**
 * **The Structure of Scientific Revolutions**
 * Open: An Autobiography
+* **Amusing Ourselves to Death**
