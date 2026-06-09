@@ -23,6 +23,7 @@ Some articles and other media that I find interesting.
 * [When is correlation transitive?][transitive_correlation]: Terry Tao describes some of the peculiarities of correlation.
 * [Do the real thing][real_thing]
 * [Strong Inference][strong_inference] is a practical method of scientific discovery based on prioritizing _falsification_ of _multiple_ hypotheses. Contrast that with the schoolhouse method of reporting _confirming_ evidence of a _single_ hypothesis.
+* [How to Make a Living as an Artist][living_artist]
 
 ##### Practical Machine Learning Research
   * [The Bitter Lesson][the_bitter_lesson]: Richard Sutton describes a difficult pill every aspiring deep-learning-programmer should swallow before trying to do something great.
@@ -52,3 +53,4 @@ Some articles and other media that I find interesting.
 [strong_inference]: https://www.whoi.edu/cms/files/platt64sci_72743.pdf
 [digest]: https://digest.kyleduffy.online/
 [hn]: https://news.ycombinator.com/
+[living_artist]: https://essays.fnnch.com/make-a-living
