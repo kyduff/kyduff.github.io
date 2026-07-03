@@ -141,3 +141,4 @@ Below is an incomplete list of the books I've read. From 2024, the books are in 
 * Secrets of Sand Hill Road
 * 1001 Arabian Nights
 * Dealers of Lightning (Abridged)
+* **Softwar**
