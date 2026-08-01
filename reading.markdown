@@ -6,6 +6,8 @@ permalink: /reading/
 
 Below is an incomplete list of the books I've read. From 2024, the books are in order of completion. Repeated titles indicate re-reads. I especially enjoyed the books with **bold** titles.
 
+If you are interested in business, I can especially recommend the books in my [pantheon](/reading/pantheon/).
+
 # Up to 2023
 
 * **The Elements of Style** (Strunk & White)
