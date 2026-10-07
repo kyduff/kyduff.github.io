@@ -152,3 +152,4 @@ If you are interested in business, I can especially recommend the books in my [p
 * The Molecule of More
 * Say Goodnight To Insomnia
 * Why Zebras Don't Get Ulcers
+* Idea Man
